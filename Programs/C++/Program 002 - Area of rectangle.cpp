@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	int length, breadth;
+	int length, breadth,x;
 	cout<<"Enter length and breadth: \n";
 	cin>>length>>breadth;
 	cout<<"Area of rectangle: "<<(length*breadth);
