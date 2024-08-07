@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	int number;
+	int number,x;
 	cout<<"Enter a number: \n";
 	cin>>number;
 	if(number%2==0){
