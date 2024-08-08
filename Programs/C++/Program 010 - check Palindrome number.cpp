@@ -3,7 +3,7 @@ using namespace std;
 class palindrome{
 	public:
 		void check(int x){
-			int a;
+			int a,x;
 			a=x;
 			int sum=0;
 			while(a!=0){
