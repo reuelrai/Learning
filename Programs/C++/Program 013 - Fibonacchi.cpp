@@ -15,7 +15,7 @@ class fibonacchi{
 		}
 };
 int main(){
-	int n;
+	int n,x;
 	fibonacchi fib;
 	cout<<"Enter a number: ";
 	cin>>n;
