@@ -3,7 +3,7 @@
 using namespace std;
 class armstrong{
 	private:
-		int x;
+		int x,y;
 	public:
 		void arm(int y){
 			x=y;
